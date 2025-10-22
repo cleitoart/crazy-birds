@@ -43,6 +43,7 @@
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_tree","path":"objects/obj_tree/obj_tree.yy",},},
     {"id":{"name":"sys_control","path":"objects/sys_control/sys_control.yy",},},
+    {"id":{"name":"sys_generator","path":"objects/sys_generator/sys_generator.yy",},},
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
     {"id":{"name":"scr_global","path":"scripts/scr_global/scr_global.yy",},},
     {"id":{"name":"spr_badbird","path":"sprites/spr_badbird/spr_badbird.yy",},},

@@ -1,1 +1,1 @@
-hspeed = -2;
+hspeed = sys_control.tree_spd;

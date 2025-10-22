@@ -3,6 +3,8 @@ if (!global.lose)
 {
 	// Personagem rotaciona com base na velocidade vertical.
 	image_angle = -vspeed * 2;
+	if (y < -16) lose_game();			// Caso o jogador saia por cima da tela, ele morre.
+	if (y > room_height) lose_game();	// Caso o jogador saia por baixo da tela, ele morre.
 }
 
 // Caso contrario, quando eu perder.

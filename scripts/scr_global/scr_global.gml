@@ -1,6 +1,8 @@
 // Variável para saber se o jogador perdeu.
-
 global.lose = false;
+
+// Variável de dificuldade
+global.difficulty_timer = 8
 
 // Função para perder o jogo
 
