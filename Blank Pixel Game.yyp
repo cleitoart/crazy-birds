@@ -39,6 +39,7 @@
   },
   "name":"Blank Pixel Game",
   "resources":[
+    {"id":{"name":"fnt_score","path":"fonts/fnt_score/fnt_score.yy",},},
     {"id":{"name":"obj_badbird","path":"objects/obj_badbird/obj_badbird.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_tree","path":"objects/obj_tree/obj_tree.yy",},},

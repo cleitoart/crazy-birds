@@ -1,6 +1,6 @@
 // Definindo o tempo que leva para o cronometro rodar.
-tree_spawner = 5;
-bird_spawner = 4;
+tree_spawner = 5.5;
+bird_spawner = 5.2;
 
 timer_a = game_get_speed(gamespeed_fps);
 timer_b = game_get_speed(gamespeed_fps);

@@ -2,7 +2,11 @@
 global.lose = false;
 
 // Variável de dificuldade
-global.difficulty_timer = 8
+global.difficulty_timer = 8;
+global.level = 0;
+global.max_level = 9;
+// Variável dos pontos
+global.score = 0;
 
 // Função para perder o jogo
 

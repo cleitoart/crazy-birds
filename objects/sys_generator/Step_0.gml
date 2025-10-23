@@ -1,13 +1,3 @@
-if (bird_spawner <= 1)
-{
-	bird_spawner = 1;
-}
-
-if (tree_spawner <= 1.2)
-{
-	tree_spawner = 1.2;
-}
-
 timer_a = game_get_speed(gamespeed_fps) * tree_spawner;
 timer_b = game_get_speed(gamespeed_fps) * bird_spawner;
 
