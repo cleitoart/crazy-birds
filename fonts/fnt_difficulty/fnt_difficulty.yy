@@ -1,6 +1,6 @@
 {
   "$GMFont":"",
-  "%Name":"fnt_score",
+  "%Name":"fnt_difficulty",
   "AntiAlias":1,
   "applyKerning":0,
   "ascender":17,
@@ -213,7 +213,7 @@
   "last":0,
   "lineHeight":22,
   "maintainGms1Font":false,
-  "name":"fnt_score",
+  "name":"fnt_difficulty",
   "parent":{
     "name":"Fonts",
     "path":"folders/Fonts.yy",

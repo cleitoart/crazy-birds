@@ -7,7 +7,7 @@ global.level = 0;
 global.max_level = 9;
 // Variável dos pontos
 global.score = 0;
-
+global.seeds = 0;
 // Função para perder o jogo
 
 function lose_game()

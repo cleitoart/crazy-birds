@@ -4,8 +4,10 @@ bird_spawner = 5.2;
 
 timer_a = game_get_speed(gamespeed_fps);
 timer_b = game_get_speed(gamespeed_fps);
+timer_c = irandom_range(3, 6);
 
 // Dando inicio ao gerador, assim que o cronometro acabar.
 alarm[0] = timer_a;
 alarm[1] = timer_b;
+alarm[3] = game_get_speed(gamespeed_fps) * timer_c;
 alarm[2] = game_get_speed(gamespeed_fps) * global.difficulty_timer;
